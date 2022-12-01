@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hammed Jimoh
-- 👀 I’m interested in Data Analytics, Data Science, Machine Learning and Mathematical Modeling 
+- 👀 I’m interested in Data Analytics/Analysis, Data Science, Machine Learning and Mathematical Modeling 
 - 🌱 I’m currently learning Machine Learning for Data Science 
 - 💞️ I’m looking to collaborate on any of the above listed fields 
 - 📫 You can reach me on jimohhammed17@gmail.com
